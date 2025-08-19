@@ -1,57 +1,45 @@
-# React + TypeScript + Vite
+# Airdrop Control
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicativo web para gerenciamento e controle de projetos e tarefas, com foco em simplificar a organização de equipes e melhorar a produtividade.
 
-Currently, two official plugins are available:
+## 🎯 O Problema
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Gerenciar projetos e tarefas de forma eficiente é um desafio constante para equipes de todos os tamanhos. Muitas vezes, as ferramentas existentes são complexas demais para necessidades básicas ou não oferecem a flexibilidade necessária para diferentes fluxos de trabalho.
 
-## Expanding the ESLint configuration
+## 💡 A Solução
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+O Airdrop Control foi desenvolvido para oferecer uma solução simples, porém poderosa, para o gerenciamento de projetos e tarefas. Com uma interface intuitiva e recursos essenciais, a ferramenta ajuda equipes a:
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+- Organizar projetos de forma clara e objetiva
+- Acompanhar o andamento de tarefas
+- Melhorar a comunicação entre membros da equipe
+- Manter o foco nas prioridades
+- Visualizar o progresso de forma simples e direta
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 🛠️ Tecnologias Utilizadas
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+- **Frontend**: React.js com TypeScript
+- **Estilização**: Tailwind CSS
+- **Build**: Vite
+- **Autenticação**: Supabase Auth
+- **Banco de Dados**: Supabase (PostgreSQL)
+- **Testes**: Playwright
+- **Deploy**: Vercel/Netlify
 
-export default tseslint.config({
-  extends: [
-    // other configs...
-    // Enable lint rules for React
-    reactX.configs['recommended-typescript'],
-    // Enable lint rules for React DOM
-    reactDom.configs.recommended,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## ✨ Funcionalidades Principais
+
+- Autenticação de usuários
+- Gerenciamento de projetos
+- Criação e atribuição de tarefas
+- Acompanhamento de progresso
+- Interface responsiva
+- Tema claro/escuro
+
+
+## 📄 Licença
+
+Este projeto está sob a licença pessoal, desenvolvido por Grottan City Lab.
+
+---
+
+Desenvolvido com ❤️ para simplificar o gerenciamento de projetos
