@@ -1,0 +1,326 @@
+# 📚 Tutorial de Uso - Your AI-rdrop Control
+
+O **Your AI-rdrop Control** é sua plataforma completa para gerenciar projetos de airdrop de criptomoedas. Com ele, você pode organizar seus projetos, acompanhar tarefas, definir metas e muito mais - tudo em um só lugar!
+
+### O que você pode fazer:
+- ✅ Criar e gerenciar projetos de airdrop
+- 📋 Organizar tarefas por categoria e prioridade
+- 📊 Acompanhar seu progresso com gráficos
+- ⚙️ Personalizar suas configurações
+---
+
+## Primeiros Passos
+
+### 1. Criando sua Conta
+
+1. **Acesse a plataforma** através do link fornecido
+2. **Clique em "Criar Conta"** na tela inicial
+3. **Preencha seus dados:**
+   - Nome completo
+   - E-mail válido
+   - Senha segura (mínimo 8 caracteres)
+4. **Confirme sua conta** através do e-mail enviado
+5. **Faça seu primeiro login**
+
+### 2. Primeiro Login
+
+1. **Digite seu e-mail e senha** na tela de login
+2. **Clique em "Entrar"**
+3. **Você será direcionado** para o Dashboard principal
+
+> 💡 **Dica:** Marque a opção "Lembrar-me" para não precisar fazer login toda vez!
+
+---
+
+## Navegando pelo Dashboard
+
+O Dashboard é sua central de comando! Aqui você tem uma visão geral de tudo.
+
+### Elementos Principais:
+
+#### 📊 Cartões de Resumo
+- **Total de Projetos:** Quantos projetos você tem
+- **Tarefas Pendentes:** O que ainda precisa ser feito
+- **Tarefas Concluídas:** Seu progresso até agora
+- **Taxa de Conclusão:** Sua performance geral
+
+#### 📈 Gráfico de Atividades
+- Mostra sua atividade dos últimos 7 dias
+- Ajuda a visualizar sua produtividade
+- Identifica padrões de trabalho
+
+#### 🎯 Projetos em Destaque
+- Lista seus projetos mais importantes
+- Acesso rápido aos projetos ativos
+- Status atual de cada projeto
+
+#### ⚡ Tarefas Recentes
+- Últimas tarefas criadas ou modificadas
+- Acesso rápido para continuar o trabalho
+- Indicadores de prioridade
+
+### Navegação Superior
+
+- **Dashboard:** Tela inicial (onde você está)
+- **Projetos:** Gerenciar todos os projetos
+- **Tarefas:** Ver e organizar todas as tarefas
+- **Configurações:** Ajustar sua conta
+- **Sair:** Fazer logout seguro
+
+---
+
+## Gerenciando Projetos
+
+Projetos são a base da sua organização. Cada airdrop que você participa pode ser um projeto!
+
+### Criando um Novo Projeto
+
+1. **Vá para a seção "Projetos"**
+2. **Clique no botão "+ Novo Projeto"**
+3. **Preencha as informações:**
+   - **Nome:** Ex: "Airdrop TokenXYZ"
+   - **Descrição:** Detalhes sobre o projeto
+   - **Data de Início:** Quando começou
+   - **Data de Fim:** Prazo limite (opcional)
+   - **Status:** Ativo, Pausado ou Concluído
+   - **Prioridade:** Alta, Média ou Baixa
+4. **Clique em "Salvar"**
+
+### Visualizando Projetos
+
+#### 📋 Lista de Projetos
+- Todos os projetos em uma lista organizada
+- Filtros por status e prioridade
+- Busca rápida por nome
+- Ordenação por data ou nome
+
+#### 📊 Cartões de Projeto
+Cada projeto mostra:
+- **Nome e descrição**
+- **Status atual** (ativo, pausado, concluído)
+- **Progresso** (% de tarefas concluídas)
+- **Número de tarefas** (total e pendentes)
+- **Data de criação**
+- **Prioridade** (indicada por cores)
+
+### Editando um Projeto
+
+1. **Clique no projeto** que deseja editar
+2. **Clique no botão "Editar"**
+3. **Modifique as informações** necessárias
+4. **Salve as alterações**
+
+### Excluindo um Projeto
+
+1. **Acesse o projeto**
+2. **Clique em "Excluir"**
+3. **Confirme a ação**
+
+> ⚠️ **Atenção:** Excluir um projeto também remove todas as tarefas relacionadas!
+
+---
+
+## Organizando Tarefas
+
+Tarefas são as ações específicas que você precisa fazer em cada projeto.
+
+### Tipos de Tarefas
+
+#### 🔄 Swap
+- Trocas de tokens
+- Operações em DEX
+- Conversões de moeda
+
+#### ✅ Check-in
+- Verificações diárias
+- Confirmações de participação
+- Validações de conta
+
+#### 🎮 Interação
+- Uso de aplicativos
+- Testes de funcionalidades
+- Engajamento em plataformas
+
+#### 📱 Social
+- Posts em redes sociais
+- Compartilhamentos
+- Engajamento comunitário
+
+#### 📝 Formulário
+- Preenchimento de dados
+- Cadastros
+- Submissões
+
+### Criando uma Nova Tarefa
+
+1. **Vá para "Tarefas"** ou acesse através de um projeto
+2. **Clique em "+ Nova Tarefa"**
+3. **Preencha os dados:**
+   - **Título:** Nome claro da tarefa
+   - **Descrição:** Detalhes do que fazer
+   - **Projeto:** Qual projeto pertence
+   - **Categoria:** Tipo da tarefa
+   - **Prioridade:** Urgência (Alta/Média/Baixa)
+   - **Data Limite:** Quando deve ser concluída
+   - **Status:** Pendente, Em Progresso, Concluída
+4. **Salve a tarefa**
+
+### Organizando suas Tarefas
+
+#### 🔍 Filtros Disponíveis
+- **Por Status:** Pendentes, em progresso, concluídas
+- **Por Categoria:** Swap, check-in, interação, etc.
+- **Por Prioridade:** Alta, média, baixa
+- **Por Projeto:** Tarefas de um projeto específico
+- **Por Data:** Tarefas com prazo próximo
+
+#### 📊 Visualizações
+- **Lista:** Visão detalhada com todas as informações
+- **Cartões:** Visão resumida e visual
+- **Por Categoria:** Agrupadas por tipo
+
+### Executando Tarefas
+
+1. **Encontre a tarefa** na lista
+2. **Clique para ver detalhes**
+3. **Leia as instruções** na descrição
+4. **Execute a ação** necessária
+5. **Marque como concluída** quando terminar
+
+### Editando Tarefas
+
+1. **Clique na tarefa**
+2. **Selecione "Editar"**
+3. **Modifique as informações**
+4. **Salve as alterações**
+
+> 💡 **Dica:** Use a descrição para anotar links importantes, instruções específicas ou observações!
+
+---
+
+## Configurações da Conta
+
+Personalize sua experiência na plataforma através das configurações.
+
+### Acessando Configurações
+
+1. **Clique no seu nome** no canto superior direito
+2. **Selecione "Configurações"**
+3. **Navegue pelas abas** disponíveis
+
+### Abas de Configuração
+
+#### 👤 Perfil
+- **Informações Pessoais:**
+  - Nome completo
+  - E-mail
+- **Alterar Senha:**
+  - Senha atual
+  - Nova senha
+  - Confirmação
+
+### Salvando Alterações
+
+1. **Faça as modificações** desejadas
+2. **Clique em "Salvar"** em cada seção
+3. **Aguarde a confirmação** de sucesso
+
+---
+
+## Suporte e Ajuda
+
+Precisa de ajuda? Temos várias opções para você!
+
+### Central de Suporte
+
+Acesse através de **Configurações > Suporte**
+
+#### 💬 Contato Direto
+- **E-mail:** contato.grottancitylab@gmail.com
+- **Botão Copiar:** Para facilitar o contato
+- **Tempo de Resposta:** Até 24 horas
+
+### Reportando Problemas
+
+#### 🐛 Sistema de Bug Report
+
+1. **Vá para Configurações > Bug Report**
+2. **Preencha o formulário:**
+   - **Título:** Resumo do problema
+   - **Descrição:** Detalhes do que aconteceu
+   - **Imagens:** Capturas de tela (opcional)
+3. **Envie o relatório**
+4. **Aguarde nossa resposta**
+
+#### 📝 Dicas para um Bom Relatório
+- **Seja específico:** Descreva exatamente o que aconteceu
+- **Passos para reproduzir:** Como chegou ao problema
+- **Capturas de tela:** Imagens ajudam muito
+- **Informações do sistema:** Navegador, dispositivo
+
+
+## Dicas e Melhores Práticas
+
+### 🎯 Organização Eficiente
+
+#### Para Projetos:
+- **Use nomes descritivos:** "Airdrop LayerZero Q1 2024"
+- **Defina prazos realistas:** Considere a complexidade
+- **Priorize corretamente:** Foque no que importa
+- **Atualize o status:** Mantenha informações atuais
+
+#### Para Tarefas:
+- **Seja específico no título:** "Fazer swap de 0.1 ETH por USDC"
+- **Use a descrição:** Anote links, valores, instruções
+- **Categorize corretamente:** Facilita a organização
+- **Defina prioridades:** Alta para urgentes, baixa para opcionais
+
+### ⏰ Gestão de Tempo
+
+- **Verifique o Dashboard diariamente:** Mantenha-se atualizado
+- **Use filtros:** Foque nas tarefas importantes
+- **Defina metas diárias:** Ex: 5 tarefas por dia
+- **Revise semanalmente:** Ajuste prioridades
+
+### 🔒 Segurança
+
+- **Use senhas fortes:** Mínimo 12 caracteres
+- **Não compartilhe credenciais:** Mantenha privado
+- **Faça logout:** Especialmente em computadores públicos
+
+### 📊 Acompanhamento
+
+- **Monitore sua taxa de conclusão:** Meta: acima de 80%
+- **Identifique padrões:** Quando você é mais produtivo?
+- **Ajuste estratégias:** Melhore baseado nos dados
+- **Celebre conquistas:** Reconheça seu progresso!
+
+### 🚀 Produtividade
+
+#### Rotina Sugerida:
+1. **Manhã:** Verificar Dashboard e prioridades
+2. **Meio-dia:** Executar tarefas de alta prioridade
+3. **Tarde:** Tarefas de rotina e check-ins
+4. **Noite:** Revisar progresso e planejar próximo dia
+
+## 🎉 Conclusão
+
+Parabéns! Agora você conhece todas as funcionalidades do Airdrop Control. 
+
+### Próximos Passos:
+1. **Crie seu primeiro projeto**
+2. **Adicione algumas tarefas**
+3. **Explore as configurações**
+4. **Estabeleça sua rotina**
+
+### Lembre-se:
+- **A prática leva à perfeição**
+- **Organize-se do seu jeito**
+- **Use o suporte quando precisar**
+- **Mantenha-se atualizado**
+
+**Boa sorte com seus airdrops! 🚀**
+
+--
+
+> 💡 **Sugestão:** Marque este tutorial nos favoritos para consultas rápidas!
