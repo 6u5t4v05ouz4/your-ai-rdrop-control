@@ -1,4 +1,4 @@
-# Airdrop Control
+# Your Ai-rdrop Control
 
 Aplicativo web para gerenciamento e controle de projetos e tarefas, com foco em simplificar a organização de equipes e melhorar a produtividade.
 
